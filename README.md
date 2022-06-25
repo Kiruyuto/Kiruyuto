@@ -1,4 +1,5 @@
-<p align="center"><a href="https://github.com/Kiruyuto"> <img alt="Hi! I'm Hubert" src="./Assets/readme-header.svg" height="100"/></a></p>
+<p align="center"><a href="https://github.com/Kiruyuto"><img alt="Hi! Welcome to my profile" src="./Assets/header.svg" /></a></p>
+
 
 I'm a software engineering student and programming enthusiast 😇  
 
@@ -17,6 +18,5 @@ I'm a software engineering student and programming enthusiast 😇
 
 # My stats:
 <!-- Cards color to match discord card: 1a1c1f -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiruyuto&count_private=true&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruyuto&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's most used languages" />
+| <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiruyuto&count_private=true&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's github stats"/></a> | </a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruyuto&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's most used languages"/></a>
 | ------------- | ------------- |
-
