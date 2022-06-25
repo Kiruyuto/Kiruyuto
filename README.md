@@ -1,5 +1,6 @@
-<p align="center"><a href="https://github.com/Kiruyuto"><img alt="Hi! Welcome to my profile" src="./Assets/header.svg" /></a></p>
-
+<a href="https://github.com/Kiruyuto?tab=repositories">
+  <img src="./Assets/header.svg" height="100" alt="Hubert's repositories"/>
+</a>
 
 I'm a software engineering student and programming enthusiast 😇  
 
