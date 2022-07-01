@@ -5,10 +5,10 @@
 I'm a software engineering student and programming enthusiast 😇  
 
 ❤:  
-  <img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
-  <img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> 
+  <img height="30" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="30" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img height="30" alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
+  <img height="30" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> 
 
 
 ### How to reach me?
@@ -20,4 +20,10 @@ I'm a software engineering student and programming enthusiast 😇
 # My stats:
 <!-- Cards color to match discord card: 1a1c1f -->
 | <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiruyuto&count_private=true&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's github stats"/></a> | <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruyuto&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's most used languages"/></a>
-| ------------- | ------------- |
+| ------------- | ------------- |  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiruyuto/Kiruyuto/snake/contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kiruyuto/Kiruyuto/snake/contribution-snake.svg">
+  <img alt="Hubert's contribution graph c:">
+</picture> 
