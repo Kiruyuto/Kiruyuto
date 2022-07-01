@@ -1,6 +1,12 @@
 <a href="https://github.com/Kiruyuto?tab=repositories">
-  <img src="./Assets/header.svg" height="100" alt="Hubert's repositories"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./Assets/header-white.svg">
+  <img alt="Hubert's contribution graph c:">
+</picture> 
+  <!-- <img src="./Assets/header.svg" height="100" alt="Hubert's repositories"/> -->
 </a>
+
 
 I'm a software engineering student and programming enthusiast 😇  
 
