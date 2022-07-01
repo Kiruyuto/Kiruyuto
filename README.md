@@ -1,20 +1,18 @@
 <a href="https://github.com/Kiruyuto?tab=repositories">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./Assets/header-white.svg">
-  <img alt="Hubert's contribution graph c:">
-</picture> 
-  <!-- <img src="./Assets/header.svg" height="100" alt="Hubert's repositories"/> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./Assets/header-white.svg">
+    <img alt="Hubert's contribution graph c:">
+  </picture> 
 </a>
-
 
 I'm a software engineering student and programming enthusiast 😇  
 
 ❤:  
-  <img height="30" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="30" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="30" alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
-  <img height="30" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> 
+<img height="30" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="30" alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
+<img height="30" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> 
 
 
 ### How to reach me?
@@ -31,5 +29,9 @@ I'm a software engineering student and programming enthusiast 😇
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiruyuto/Kiruyuto/snake/contribution-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kiruyuto/Kiruyuto/snake/contribution-snake.svg">
-  <img alt="Hubert's contribution graph c:">
+  <img alt="Hubert's contribution graph snake; updated every 24hrs">
 </picture> 
+
+<p align="right" style="font-size:85%">
+  Best to view in GitHub dark mode 🌙
+</p>
