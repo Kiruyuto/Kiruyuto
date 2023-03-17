@@ -9,11 +9,9 @@
 I'm a software engineering student and programming enthusiast 😇
 
 ❤:  
-<img height="30" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-<img height="30" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img height="30" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="30" alt="C#" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">
 <img height="30" alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
 ### How to reach me?
 
@@ -25,8 +23,8 @@ I'm a software engineering student and programming enthusiast 😇
 
 <!-- Cards color to match discord card: 1a1c1f -->
 
-| <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiruyuto&count_private=true&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's github stats"/></a> | <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruyuto&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's most used languages"/></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats-kiruyuto.vercel.app/api?username=Kiruyuto&count_private=true&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's github stats"/></a> | <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats-kiruyuto.vercel.app/api/top-langs/?username=Kiruyuto&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's most used languages"/></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiruyuto/Kiruyuto/snake/contribution-snake-dark.svg">
