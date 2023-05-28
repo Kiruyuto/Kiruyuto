@@ -6,7 +6,7 @@
   </picture> 
 </a>
 
-I'm a software engineering student and programming enthusiast 😇
+.NET developer with a wide range of interests 😎
 
 ❤:  
 <img height="30" alt="C#" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">
