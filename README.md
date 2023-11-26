@@ -4,7 +4,7 @@
 ## Things I use on a daily basis:
 ![Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,js,docker,bash,git&theme=dark)
 ## Things I enjoy working with in my free time:
-![Hobbies](https://skillicons.dev/icons?i=vue,nodejs,bots,github,githubactions,linux&theme=dark)  
+![Hobbies](https://skillicons.dev/icons?i=vue,nuxt,nodejs,bots,github,githubactions,linux&theme=dark)  
 
 ### How to reach me?
 
