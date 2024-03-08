@@ -1,4 +1,5 @@
 # Ayo 👋
+<!-- TODO: Add a banner -->
 .NET developer with a wide range of interests 😎
 - Check me out [here](https://kiru.dev/ 'Kiru.dev')!
 - DM me on discord
@@ -6,7 +7,7 @@
 #  
 
 <!-- Cards color to match discord card: 1a1c1f -->
-| <a href=https://discord.com/users/538428975261941771><img src="https://lanyard.cnrad.dev/api/538428975261941771?animated=true&showDisplayName=true"/></a> | <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats-kiruyuto.vercel.app/api/top-langs/?username=Kiruyuto&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=1a1c1f" alt="Hubert's most used languages"/></a> |
+| <a href=https://discord.com/users/538428975261941771><img src="https://lanyard.cnrad.dev/api/538428975261941771?animated=true&showDisplayName=true&theme=dark&idleMessage=Zzzz prob sleeping"/></a> | <a href="https://github.com/Kiruyuto"><img align="center" src="https://github-readme-stats-kiruyuto.vercel.app/api/top-langs/?username=Kiruyuto&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=1a1c1f&langs_count=3&exclude_repo=ZUT" alt="Hubert's most used languages"/></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <picture>
