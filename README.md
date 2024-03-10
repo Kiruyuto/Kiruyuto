@@ -1,8 +1,9 @@
-# Ayo 👋
-<!-- TODO: Add a banner -->
-.NET developer with a wide range of interests 😎
-- Check me out [here](https://kiru.dev/ 'Kiru.dev')!
-- DM me on discord
+<div align="center">
+<img src="./Assets/Banner.png" alt="Banner" width="100%">
+
+.NET developer with a wide range of interests 😎  
+<‎Check me out [here](https://kiru.dev/ 'Kiru.dev')! />  
+<‎DM me on discord />  
 
 #  
 
@@ -17,3 +18,5 @@
 </picture>
 
 <p align="right" style="font-size:85%">Best to view in GitHub dark mode 🌙</p>
+
+</div>
